@@ -34,7 +34,7 @@
   "devDependencies": {
     "electron-packager": "5.1.*",
     "electron-prebuilt": "0.34.*",
-    "gulp": "3.9.*",
+    "gulp": "^4.0.2",
     "gulp-clean": "0.3.*",
     "run-sequence": "1.1.*"
   }
